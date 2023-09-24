@@ -14,7 +14,7 @@
 
 //-----------Q5-----------
 
-//Yes but may give some error or will give some random value
+//Error, because *ptr does not exist
 
 
 
